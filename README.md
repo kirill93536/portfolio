@@ -38,14 +38,14 @@ Welcome to my Unity Portfolio! Here you'll find a collection of my Unity project
 
 ### Screenshots
 
-![Escape the House Screenshot 1](path/to/escape_the_house_screenshot1.png)
-![Escape the House Screenshot 2](path/to/escape_the_house_screenshot2.png)
-![Escape the House Screenshot 3](path/to/escape_the_house_screenshot3.png)
-![Escape the House Screenshot 4](path/to/escape_the_house_screenshot4.png)
+![Escape the House Screenshot 1](https://github.com/kirill93536/portfolio/blob/main/Escape%20the%20house/screenshot_1.png)
+![Escape the House Screenshot 2](https://github.com/kirill93536/portfolio/blob/main/Escape%20the%20house/screenshot_2.png)
+![Escape the House Screenshot 3](https://github.com/kirill93536/portfolio/blob/main/Escape%20the%20house/screenshot_3.png)
+![Escape the House Screenshot 4](https://github.com/kirill93536/portfolio/blob/main/Escape%20the%20house/screenshot_4.png)
 
 ### Download Link
 
-- [Download Escape the House](your-escape-the-house-build-link)
+- [Download Escape the House](https://drive.google.com/file/d/1AQkBtOBpRj-F_DWpeD0eH5jj4CeRyXzY/view?usp=sharing)
 
 ---
 
@@ -72,18 +72,18 @@ In this project, I developed a roguelike game featuring room-based procedural le
 
 ### Screenshots
 
-![Roguelike Game Screenshot 1](path/to/roguelike_screenshot1.png)
-![Roguelike Game Screenshot 2](path/to/roguelike_screenshot2.png)
-![Roguelike Game Screenshot 3](path/to/roguelike_screenshot3.png)
-![Roguelike Game Screenshot 4](path/to/roguelike_screenshot4.png)
+![Roguelike Game Screenshot 1](https://github.com/kirill93536/portfolio/blob/main/2D%20Roguelike%20Soul%20Knight%20Clone/screenshot_1.png)
+![Roguelike Game Screenshot 2](https://github.com/kirill93536/portfolio/blob/main/2D%20Roguelike%20Soul%20Knight%20Clone/screenshot_2.png)
+![Roguelike Game Screenshot 3](https://github.com/kirill93536/portfolio/blob/main/2D%20Roguelike%20Soul%20Knight%20Clone/screenshot_3.png)
+![Roguelike Game Screenshot 4](https://github.com/kirill93536/portfolio/blob/main/2D%20Roguelike%20Soul%20Knight%20Clone/screenshot_4.png)
 
 ### Download Link
 
-- [Download Roguelike Game](your-roguelike-build-link)
+- [Download Roguelike Game](https://drive.google.com/file/d/1i08JFkssdOsF-7jhOx6VvWHnH35xmY-C/view?usp=sharing)
 
 ### GitHub Repository
 
-- [View on GitHub](your-roguelike-repo-link)
+- [View on GitHub](https://github.com/kirill93536/2D-Roguelike-Soul-Knight-Copy)
 
 ---
 
@@ -109,11 +109,11 @@ In this project, I developed a roguelike game featuring room-based procedural le
 
 ### Gameplay Video
 
-[![Throw & Paint Gameplay Video](path/to/video_thumbnail.png)](your-video-link-here)
+[![Throw & Paint Gameplay Video](path/to/video_thumbnail.png)](https://github.com/kirill93536/portfolio/blob/main/Throw%20and%20Paint/throw%20and%20paint%20gameplay.mp4)
 
 ### Download Link
 
-- [Download APK](your-throw-paint-apk-link)
+- [Download APK](https://drive.google.com/file/d/1V64VopwGchOymxZ4fuodHjWd7j8NFA78/view?usp=sharing)
 
 ---
 
@@ -140,18 +140,16 @@ In this unfinished project, I worked on replicating the core mechanics of "Infit
 
 ### Screenshots
 
-![TD Infitode 2 Clone Screenshot 1](path/to/td_clone_screenshot1.png)
-![TD Infitode 2 Clone Screenshot 2](path/to/td_clone_screenshot2.png)
-![TD Infitode 2 Clone Screenshot 3](path/to/td_clone_screenshot3.png)
-![TD Infitode 2 Clone Screenshot 4](path/to/td_clone_screenshot4.png)
+![TD Infitode 2 Clone Screenshot 1](https://github.com/kirill93536/portfolio/blob/main/TD%20Infitode%20Clone/Screenshot_1.png)
+![TD Infitode 2 Clone Screenshot 2](https://github.com/kirill93536/portfolio/blob/main/TD%20Infitode%20Clone/Screenshot_2.png)
 
 ### Download Link
 
-- [Download TD Infitode 2 Clone](your-td-clone-build-link)
+- [Download TD Infitode 2 Clone](https://drive.google.com/file/d/1EbBxkp5rIOpqQh_3eiHAMsNgAJ3HfcBV/view?usp=sharing)
 
 ### GitHub Repository
 
-- [View on GitHub](your-td-clone-repo-link)
+- [View on GitHub](https://github.com/kirill93536/TD-Infitode-Clone/)
 
 ---
 
@@ -176,19 +174,15 @@ In **Simple Maze**, players navigate through a maze to find a key and three leve
 
 ### Screenshots
 
-![Simple Maze Screenshot 1](path/to/simple_maze_screenshot1.png)
-![Simple Maze Screenshot 2](path/to/simple_maze_screenshot2.png)
-![Simple Maze Screenshot 3](path/to/simple_maze_screenshot3.png)
-![Simple Maze Screenshot 4](path/to/simple_maze_screenshot4.png)
+![Simple Maze Screenshot 1](https://github.com/kirill93536/portfolio/blob/main/Maze/screenshot_1.png)
+![Simple Maze Screenshot 2](https://github.com/kirill93536/portfolio/blob/main/Maze/screenshot_2.png)
 
 ### GitHub Repository
 
-- [View on GitHub](your-simple-maze-repo-link)
+- [View on GitHub](https://github.com/kirill93536/Maze)
 
 ---
 
 ## Contact
 
 Thank you for taking the time to explore my Unity projects. I'm passionate about game development and always looking to learn and improve.
-
-Feel free to reach out to me on [LinkedIn](your-linkedin-url) or visit my [personal website](your-website-url) for more information.
