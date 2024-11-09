@@ -1,10 +1,10 @@
 # Unity Portfolio
 
-**Sprishevskiy Kirill**
+**Kirill Sprishevskiy**
 
 Welcome to my Unity Portfolio! Here you'll find a collection of my Unity projects, showcasing my journey and growth as a game developer. Each project highlights different aspects of game development, from procedural level generation to unique gameplay mechanics.
 
-**Telegram Channel**: [https://t.me/unity3d_blog]
+**Telegram Channel**: https://t.me/unity3d_blog
 
 ## Table of Contents
 
