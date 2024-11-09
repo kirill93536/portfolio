@@ -45,7 +45,7 @@ Welcome to my Unity Portfolio! Here you'll find a collection of my Unity project
 
 ### Download Link
 
-- [Play Escape the House](your-build-link-here)
+- [Download Escape the House](your-escape-the-house-build-link)
 
 ---
 
@@ -77,6 +77,10 @@ In this project, I developed a roguelike game featuring room-based procedural le
 ![Roguelike Game Screenshot 3](path/to/roguelike_screenshot3.png)
 ![Roguelike Game Screenshot 4](path/to/roguelike_screenshot4.png)
 
+### Download Link
+
+- [Download Roguelike Game](your-roguelike-build-link)
+
 ### GitHub Repository
 
 - [View on GitHub](your-roguelike-repo-link)
@@ -103,16 +107,13 @@ In this project, I developed a roguelike game featuring room-based procedural le
 - **Creative Expression**: Allows players to create visually appealing designs by combining objects and colors.
 - **Simple Controls**: Easy-to-use mechanics make the game accessible and enjoyable.
 
-### Screenshots
+### Gameplay Video
 
-![Throw & Paint Screenshot 1](path/to/throw_paint_screenshot1.png)
-![Throw & Paint Screenshot 2](path/to/throw_paint_screenshot2.png)
-![Throw & Paint Screenshot 3](path/to/throw_paint_screenshot3.png)
-![Throw & Paint Screenshot 4](path/to/throw_paint_screenshot4.png)
+[![Throw & Paint Gameplay Video](path/to/video_thumbnail.png)](your-video-link-here)
 
-### GitHub Repository
+### Download Link
 
-- [View on GitHub](your-throw-paint-repo-link)
+- [Download APK](your-throw-paint-apk-link)
 
 ---
 
@@ -143,6 +144,10 @@ In this unfinished project, I worked on replicating the core mechanics of "Infit
 ![TD Infitode 2 Clone Screenshot 2](path/to/td_clone_screenshot2.png)
 ![TD Infitode 2 Clone Screenshot 3](path/to/td_clone_screenshot3.png)
 ![TD Infitode 2 Clone Screenshot 4](path/to/td_clone_screenshot4.png)
+
+### Download Link
+
+- [Download TD Infitode 2 Clone](your-td-clone-build-link)
 
 ### GitHub Repository
 
