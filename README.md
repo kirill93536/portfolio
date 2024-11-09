@@ -36,6 +36,17 @@ Welcome to my Unity Portfolio! Here you'll find a collection of my Unity project
 - **Dynamic Difficulty**: The sanity and curse mechanics add layers of challenge, requiring quick thinking and keen observation.
 - **Starting Room Hub**: Acts as the central point where players start and return upon death, complete with tutorial boards and game rules.
 
+### Screenshots
+
+![Escape the House Screenshot 1](path/to/escape_the_house_screenshot1.png)
+![Escape the House Screenshot 2](path/to/escape_the_house_screenshot2.png)
+![Escape the House Screenshot 3](path/to/escape_the_house_screenshot3.png)
+![Escape the House Screenshot 4](path/to/escape_the_house_screenshot4.png)
+
+### Download Link
+
+- [Play Escape the House](your-build-link-here)
+
 ---
 
 ## Roguelike Game - Soul Knight Clone
@@ -59,6 +70,17 @@ In this project, I developed a roguelike game featuring room-based procedural le
 - **Weapon Mechanics**: Provides players with choices in combat, enhancing the strategic aspect of the game.
 - **Progression System**: Players must clear rooms to find the escape portal, creating a sense of progression and achievement.
 
+### Screenshots
+
+![Roguelike Game Screenshot 1](path/to/roguelike_screenshot1.png)
+![Roguelike Game Screenshot 2](path/to/roguelike_screenshot2.png)
+![Roguelike Game Screenshot 3](path/to/roguelike_screenshot3.png)
+![Roguelike Game Screenshot 4](path/to/roguelike_screenshot4.png)
+
+### GitHub Repository
+
+- [View on GitHub](your-roguelike-repo-link)
+
 ---
 
 ## Throw & Paint
@@ -80,6 +102,17 @@ In this project, I developed a roguelike game featuring room-based procedural le
 - **Interactive Platform**: The rotating platform adds a dynamic element to the gameplay.
 - **Creative Expression**: Allows players to create visually appealing designs by combining objects and colors.
 - **Simple Controls**: Easy-to-use mechanics make the game accessible and enjoyable.
+
+### Screenshots
+
+![Throw & Paint Screenshot 1](path/to/throw_paint_screenshot1.png)
+![Throw & Paint Screenshot 2](path/to/throw_paint_screenshot2.png)
+![Throw & Paint Screenshot 3](path/to/throw_paint_screenshot3.png)
+![Throw & Paint Screenshot 4](path/to/throw_paint_screenshot4.png)
+
+### GitHub Repository
+
+- [View on GitHub](your-throw-paint-repo-link)
 
 ---
 
@@ -104,6 +137,17 @@ In this unfinished project, I worked on replicating the core mechanics of "Infit
 - **Core Tower Defense Elements**: Established the foundational components necessary for a tower defense game.
 - **Strategic Gameplay**: Encouraged planning and tactical placement of towers.
 
+### Screenshots
+
+![TD Infitode 2 Clone Screenshot 1](path/to/td_clone_screenshot1.png)
+![TD Infitode 2 Clone Screenshot 2](path/to/td_clone_screenshot2.png)
+![TD Infitode 2 Clone Screenshot 3](path/to/td_clone_screenshot3.png)
+![TD Infitode 2 Clone Screenshot 4](path/to/td_clone_screenshot4.png)
+
+### GitHub Repository
+
+- [View on GitHub](your-td-clone-repo-link)
+
 ---
 
 ## Simple Maze
@@ -125,6 +169,17 @@ In **Simple Maze**, players navigate through a maze to find a key and three leve
 - **Rapid Prototyping**: Demonstrates the ability to develop a functional game within a limited timeframe.
 - **Basic Puzzle Elements**: Incorporates key game design principles like item collection and obstacle avoidance.
 
+### Screenshots
+
+![Simple Maze Screenshot 1](path/to/simple_maze_screenshot1.png)
+![Simple Maze Screenshot 2](path/to/simple_maze_screenshot2.png)
+![Simple Maze Screenshot 3](path/to/simple_maze_screenshot3.png)
+![Simple Maze Screenshot 4](path/to/simple_maze_screenshot4.png)
+
+### GitHub Repository
+
+- [View on GitHub](your-simple-maze-repo-link)
+
 ---
 
 ## Contact
@@ -132,5 +187,3 @@ In **Simple Maze**, players navigate through a maze to find a key and three leve
 Thank you for taking the time to explore my Unity projects. I'm passionate about game development and always looking to learn and improve.
 
 Feel free to reach out to me on [LinkedIn](your-linkedin-url) or visit my [personal website](your-website-url) for more information.
-
----
