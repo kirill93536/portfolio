@@ -16,7 +16,7 @@ Welcome to my Unity Portfolio! Here you'll find a collection of my Unity project
 
 ---
 
-## Escape the House
+## Escape the House (October 2024)
 
 *The first big project I completed, reaching a demo version state with several playable levels.*
 
@@ -53,7 +53,7 @@ Welcome to my Unity Portfolio! Here you'll find a collection of my Unity project
 
 ---
 
-## Roguelike Game - Soul Knight Clone
+## Roguelike Game - Soul Knight Clone (2022)
 
 *An attempt to recreate the popular game "Soul Knight," focusing on procedural level generation and combat mechanics.*
 
@@ -91,7 +91,7 @@ In this project, I developed a roguelike game featuring room-based procedural le
 
 ---
 
-## Throw & Paint
+## Throw & Paint (2022)
 
 *A simple yet engaging project developed as part of an application for a Unity Junior position.*
 
@@ -121,7 +121,7 @@ In this project, I developed a roguelike game featuring room-based procedural le
 
 ---
 
-## TD Infitode 2 Clone
+## TD Infitode 2 Clone (2021)
 
 *An attempt to create a clone of "Infitode 2," focusing on tower defense mechanics and level management.*
 
@@ -157,7 +157,7 @@ In this unfinished project, I worked on replicating the core mechanics of "Infit
 
 ---
 
-## Simple Maze
+## Simple Maze (2021)
 
 *A mini-game developed as part of a one-hour challenge to create a game from scratch.*
 
